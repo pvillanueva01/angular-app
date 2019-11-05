@@ -21,5 +21,5 @@ Angular app basic project
 ### Access Existing Project
 * cd cd /var/www/public/angular-practice/practice-app
 * ng serve --host 0.0.0.0
-* ng serve --host 0.0.0.0
+* access URL via: http://192.168.33.10:4200/
 
