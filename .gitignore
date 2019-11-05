@@ -1,3 +1,6 @@
 # IDE
 .idea/
 angular.practice.iml
+
+# Node Modules
+practice-app/node_modules/
